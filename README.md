@@ -21,13 +21,13 @@ server {
 }
 ```
 - Navigate to nginx folder location(in terminal) and run:
-  * nginx
+  * > nginx
 
 
 - Download node (node version : 5.0 (older versions are not supported))
 - Navigate to client folder location(in terminal) and run:
-- npm install
-- npm start
+  * > npm install
+  * > npm start
 
 You can Listen at
 
