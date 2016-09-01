@@ -20,6 +20,9 @@ server {
     } 
 }
 ```
+- Navigate to nginx folder location(in terminal) and run:
+  * nginx
+
 
 - Download node (node version : 5.0 (older versions are not supported))
 - Navigate to client folder location(in terminal) and run:
