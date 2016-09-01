@@ -45,6 +45,10 @@ module.exports = {
             {
                 test:   /\.css$/,
                 loader: "style-loader!css-loader!postcss-loader"
+            },
+            {
+                test: /\.less$/,
+                loader: "style-loader!css-loader!less-loader"
             }
         ],
         include: path.join(__dirname, 'src')

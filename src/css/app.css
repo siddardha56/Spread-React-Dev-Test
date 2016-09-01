@@ -1,0 +1,39 @@
+.header {
+	padding: 0px 10px;
+	position:absolute;
+	top:0;
+	width:100%; 
+	height: 65px; 
+	background-color: #6a6a6a;
+}
+
+.searchBar {
+	margin: 15px 5px;
+	width: 60%;
+	display: inline-block; 
+}
+
+.container-room-type {
+	margin: 15px 5px;
+	display: inline-block;
+	min-width: 20%;
+}
+
+.searchBtn {
+	position: absolute;
+	margin: 15px 5px;
+	width: 80px;
+	padding: 10px 0px;
+	border-radius: 5px;
+	background: #00AAff;
+    border-width: 0px;
+    color: white;
+    font-weight: bold;
+}
+
+.resultContainer {
+	padding: 0px 10px;
+	position:absolute;
+	width:100%; 
+	top: 65px;
+}
